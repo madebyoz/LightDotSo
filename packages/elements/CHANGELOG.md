@@ -1,5 +1,48 @@
 # @lightdotso/elements
 
+## 0.0.7
+
+### Patch Changes
+
+- [#2024](https://github.com/LightDotSo/LightDotSo/pull/2024) [`40b459c`](https://github.com/LightDotSo/LightDotSo/commit/40b459c57d643f7c8f635df5b85c51c52980352d) Thanks [@shunkakinoki](https://github.com/shunkakinoki)! - Add pnpm json
+
+- [#1990](https://github.com/LightDotSo/LightDotSo/pull/1990) [`24befb5`](https://github.com/LightDotSo/LightDotSo/commit/24befb505a0d45813b6fa3e2189deaabec3a60a3) Thanks [@shunkakinoki](https://github.com/shunkakinoki)! - Update pnpm
+
+- [#1986](https://github.com/LightDotSo/LightDotSo/pull/1986) [`9e7ad20`](https://github.com/LightDotSo/LightDotSo/commit/9e7ad2005150b7412f5fd1e26bad9b420d1cbce8) Thanks [@shunkakinoki](https://github.com/shunkakinoki)! - UPdate packages
+
+- [#1989](https://github.com/LightDotSo/LightDotSo/pull/1989) [`7842870`](https://github.com/LightDotSo/LightDotSo/commit/7842870559da2a1419bd35ffd31b64c739d1fc95) Thanks [@shunkakinoki](https://github.com/shunkakinoki)! - Add packages
+
+- [#2036](https://github.com/LightDotSo/LightDotSo/pull/2036) [`e34e56a`](https://github.com/LightDotSo/LightDotSo/commit/e34e56a5d9ed805484f35f91623d2091670c09c8) Thanks [@shunkakinoki](https://github.com/shunkakinoki)! - Add cart modal
+
+- [#2088](https://github.com/LightDotSo/LightDotSo/pull/2088) [`6f4b641`](https://github.com/LightDotSo/LightDotSo/commit/6f4b64150707460e266c575bee13d1c7f94acbb2) Thanks [@shunkakinoki](https://github.com/shunkakinoki)! - ADd ncu update
+
+- [#1997](https://github.com/LightDotSo/LightDotSo/pull/1997) [`48249c1`](https://github.com/LightDotSo/LightDotSo/commit/48249c1cbc8bfd84939970e77b2be7a5b30f47d5) Thanks [@shunkakinoki](https://github.com/shunkakinoki)! - Update token modal
+
+- [#1969](https://github.com/LightDotSo/LightDotSo/pull/1969) [`d40e1b2`](https://github.com/LightDotSo/LightDotSo/commit/d40e1b2eb12acd18b0d6e7b506b16a6df7cd501c) Thanks [@shunkakinoki](https://github.com/shunkakinoki)! - Fix eslint changes
+
+- [#2086](https://github.com/LightDotSo/LightDotSo/pull/2086) [`369a70a`](https://github.com/LightDotSo/LightDotSo/commit/369a70ab05fd6a80c1a9aefa3501a46e4c48f2bb) Thanks [@shunkakinoki](https://github.com/shunkakinoki)! - Add eslint pkg
+
+- [#2032](https://github.com/LightDotSo/LightDotSo/pull/2032) [`ff3d1ee`](https://github.com/LightDotSo/LightDotSo/commit/ff3d1ee926016f30378a4fc2d1aad02904bce465) Thanks [@shunkakinoki](https://github.com/shunkakinoki)! - Fix pop dm
+
+- [#1977](https://github.com/LightDotSo/LightDotSo/pull/1977) [`c17391d`](https://github.com/LightDotSo/LightDotSo/commit/c17391d7404267fa744f850c4e4a297537cf9244) Thanks [@shunkakinoki](https://github.com/shunkakinoki)! - Add ini chore update
+
+- [#2057](https://github.com/LightDotSo/LightDotSo/pull/2057) [`c30be19`](https://github.com/LightDotSo/LightDotSo/commit/c30be191f71a3ee2b30eda6ed5a275b4ae620204) Thanks [@shunkakinoki](https://github.com/shunkakinoki)! - Add changeset app
+
+- [#2046](https://github.com/LightDotSo/LightDotSo/pull/2046) [`0fa9288`](https://github.com/LightDotSo/LightDotSo/commit/0fa9288ab29b995c81fda0fe069023cc1ac2f378) Thanks [@shunkakinoki](https://github.com/shunkakinoki)! - Ncu upgrade path
+
+- [#1977](https://github.com/LightDotSo/LightDotSo/pull/1977) [`c17391d`](https://github.com/LightDotSo/LightDotSo/commit/c17391d7404267fa744f850c4e4a297537cf9244) Thanks [@shunkakinoki](https://github.com/shunkakinoki)! - Add changeset update
+
+- [#2031](https://github.com/LightDotSo/LightDotSo/pull/2031) [`d2b46ee`](https://github.com/LightDotSo/LightDotSo/commit/d2b46eebd970671843312884c00d67b12f28cf04) Thanks [@shunkakinoki](https://github.com/shunkakinoki)! - Update cargo sh
+
+- Updated dependencies [[`d71662a`](https://github.com/LightDotSo/LightDotSo/commit/d71662aab537df50ed28b34f4c6220293052c73a), [`40b459c`](https://github.com/LightDotSo/LightDotSo/commit/40b459c57d643f7c8f635df5b85c51c52980352d), [`6829ec0`](https://github.com/LightDotSo/LightDotSo/commit/6829ec0e80c1ddb3034619cc87de7099f6ccb4b9), [`24befb5`](https://github.com/LightDotSo/LightDotSo/commit/24befb505a0d45813b6fa3e2189deaabec3a60a3), [`ed7b500`](https://github.com/LightDotSo/LightDotSo/commit/ed7b500c58c782380516ca5e0eab1f8fb9fe6967), [`9e7ad20`](https://github.com/LightDotSo/LightDotSo/commit/9e7ad2005150b7412f5fd1e26bad9b420d1cbce8), [`7842870`](https://github.com/LightDotSo/LightDotSo/commit/7842870559da2a1419bd35ffd31b64c739d1fc95), [`0935b49`](https://github.com/LightDotSo/LightDotSo/commit/0935b49abac5bdf546044a178d177f7d89728869), [`6f4b641`](https://github.com/LightDotSo/LightDotSo/commit/6f4b64150707460e266c575bee13d1c7f94acbb2), [`70b538f`](https://github.com/LightDotSo/LightDotSo/commit/70b538fa919e48ba068d24801520d7290c033d61), [`cdfbe75`](https://github.com/LightDotSo/LightDotSo/commit/cdfbe7596aa113c62a82af14c6d4dde54f06a389), [`48249c1`](https://github.com/LightDotSo/LightDotSo/commit/48249c1cbc8bfd84939970e77b2be7a5b30f47d5), [`d40e1b2`](https://github.com/LightDotSo/LightDotSo/commit/d40e1b2eb12acd18b0d6e7b506b16a6df7cd501c), [`369a70a`](https://github.com/LightDotSo/LightDotSo/commit/369a70ab05fd6a80c1a9aefa3501a46e4c48f2bb), [`2cc456c`](https://github.com/LightDotSo/LightDotSo/commit/2cc456c1a05467eb4dae6ae21d2a6a32b56bc4dc), [`f51859d`](https://github.com/LightDotSo/LightDotSo/commit/f51859d19d0dd970dcc3c02b7212e493f1c5a5b2), [`c17391d`](https://github.com/LightDotSo/LightDotSo/commit/c17391d7404267fa744f850c4e4a297537cf9244), [`ed7b500`](https://github.com/LightDotSo/LightDotSo/commit/ed7b500c58c782380516ca5e0eab1f8fb9fe6967), [`0ed6621`](https://github.com/LightDotSo/LightDotSo/commit/0ed6621fe6014dfd7eb57f4c96b9c78b9905faef), [`0fa9288`](https://github.com/LightDotSo/LightDotSo/commit/0fa9288ab29b995c81fda0fe069023cc1ac2f378), [`b534318`](https://github.com/LightDotSo/LightDotSo/commit/b5343184522727085a50d9dd170913475cff7545), [`c17391d`](https://github.com/LightDotSo/LightDotSo/commit/c17391d7404267fa744f850c4e4a297537cf9244), [`d2b46ee`](https://github.com/LightDotSo/LightDotSo/commit/d2b46eebd970671843312884c00d67b12f28cf04)]:
+  - @lightdotso/const@3.1.7
+  - @lightdotso/utils@3.1.7
+  - @lightdotso/wagmi@3.1.7
+  - @lightdotso/data@0.1.6
+  - @lightdotso/demo@0.0.8
+  - @lightdotso/svg@0.0.8
+  - @lightdotso/ui@3.1.7
+
 ## 0.0.6
 
 ### Patch Changes
